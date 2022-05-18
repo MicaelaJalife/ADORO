@@ -1,0 +1,16 @@
+
+#encabezado {
+    margin: 0px auto;
+    width: 100%;
+}
+#header {
+     
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 4px 4px;
+    background-color: #521254;
+    font-weight:bolder;
+    
+}
+ 
