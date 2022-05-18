@@ -2,15 +2,52 @@
 #encabezado {
     margin: 0px auto;
     width: 100%;
-}
-#header {
-     
-    position: fixed;
     top: 0;
     width: 100%;
     padding: 4px 4px;
-    background-color: #521254;
+    background-color: #FFF5E1;
     font-weight:bolder;
-    
 }
- 
+
+.adoroTitulo{
+    color: #781C68;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    line-height: 80px;
+    font-size: 100px;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+body{
+    margin: 0px;
+}
+
+#headerNav{
+    position: fixed;
+    width: 100%;
+}
+
+.ulmenu {
+    margin: 0;
+    padding: 0;
+    background-color: #FFD39A;
+    width: 100%;
+    text-align:center;
+  }
+
+.limenu a {
+    display: block;
+    color: #781C68;
+    text-align: center;
+    font-size: large;
+    font-family:  'Bebas Neue', cursive;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.limenu {
+    display: inline-block;
+    text-align: center;
+    width: 22%;
+  }
+
